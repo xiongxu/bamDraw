@@ -1,0 +1,241 @@
+The system is: Linux - 2.6.32-220.el6.x86_64 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/3.0.0/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/3.0.0/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec3998877096/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3998877096.dir/build.make CMakeFiles/cmTryCompileExec3998877096.dir/build
+gmake[1]: Entering directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_progress_report /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3998877096.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3998877096.dir/testCCompiler.c.o   -c /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec3998877096
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3998877096.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3998877096.dir/testCCompiler.c.o  -o cmTryCompileExec3998877096 -rdynamic 
+gmake[1]: Leaving directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec3579814869/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3579814869.dir/build.make CMakeFiles/cmTryCompileExec3579814869.dir/build
+gmake[1]: Entering directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_progress_report /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o   -c /home/xuxiong/data/software/backup/cmake-3.0.0/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec3579814869
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3579814869.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec3579814869 -rdynamic  
+Using built-in specs.
+Target: x86_64-redhat-linux
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
+Thread model: posix
+gcc version 4.4.6 20110731 (Red Hat 4.4.6-3) (GCC) 
+COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec3579814869' '-rdynamic' '-mtune=generic'
+ /usr/libexec/gcc/x86_64-redhat-linux/4.4.6/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec3579814869 /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../.. CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crtn.o
+gmake[1]: Leaving directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTryCompileExec3579814869/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3579814869.dir/build.make CMakeFiles/cmTryCompileExec3579814869.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp']
+  ignore line: [/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_progress_report /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o   -c /home/xuxiong/data/software/backup/cmake-3.0.0/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec3579814869]
+  ignore line: [/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3579814869.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec3579814869 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Target: x86_64-redhat-linux]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.4.6 20110731 (Red Hat 4.4.6-3) (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec3579814869' '-rdynamic' '-mtune=generic']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.4.6/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec3579814869 /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../.. CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec3579814869] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../..]
+    arg [CMakeFiles/cmTryCompileExec3579814869.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crtn.o] ==> ignore
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64] ==> [/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../..] ==> [/usr/lib]
+  implicit libs: [c]
+  implicit dirs: [/usr/lib/gcc/x86_64-redhat-linux/4.4.6;/usr/lib64;/lib64;/usr/lib]
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec1105053899/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1105053899.dir/build.make CMakeFiles/cmTryCompileExec1105053899.dir/build
+gmake[1]: Entering directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_progress_report /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1105053899.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1105053899.dir/testCXXCompiler.cxx.o -c /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec1105053899
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1105053899.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec1105053899.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec1105053899 -rdynamic 
+gmake[1]: Leaving directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTryCompileExec688145789/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec688145789.dir/build.make CMakeFiles/cmTryCompileExec688145789.dir/build
+gmake[1]: Entering directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_progress_report /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o -c /home/xuxiong/data/software/backup/cmake-3.0.0/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec688145789
+/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec688145789.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec688145789 -rdynamic  
+Using built-in specs.
+Target: x86_64-redhat-linux
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
+Thread model: posix
+gcc version 4.4.6 20110731 (Red Hat 4.4.6-3) (GCC) 
+COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec688145789' '-rdynamic' '-shared-libgcc' '-mtune=generic'
+ /usr/libexec/gcc/x86_64-redhat-linux/4.4.6/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec688145789 /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../.. CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crtn.o
+gmake[1]: Leaving directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTryCompileExec688145789/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec688145789.dir/build.make CMakeFiles/cmTryCompileExec688145789.dir/build]
+  ignore line: [gmake[1]: Entering directory `/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp']
+  ignore line: [/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_progress_report /home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o -c /home/xuxiong/data/software/backup/cmake-3.0.0/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec688145789]
+  ignore line: [/share/work1/staff/xuxiong/software/backup/cmake-3.0.0/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec688145789.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec688145789 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Target: x86_64-redhat-linux]
+  ignore line: [Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-languages=c,c++,objc,obj-c++,java,fortran,ada --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.4.6 20110731 (Red Hat 4.4.6-3) (GCC) ]
+  ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec688145789' '-rdynamic' '-shared-libgcc' '-mtune=generic']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/4.4.6/collect2 --eh-frame-hdr --build-id -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec688145789 /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../.. CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtend.o /usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crtn.o]
+    arg [/usr/libexec/gcc/x86_64-redhat-linux/4.4.6/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec688145789] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../..]
+    arg [CMakeFiles/cmTryCompileExec688145789.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6] ==> [/usr/lib/gcc/x86_64-redhat-linux/4.4.6]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../../../lib64] ==> [/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/usr/lib/gcc/x86_64-redhat-linux/4.4.6/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;c]
+  implicit dirs: [/usr/lib/gcc/x86_64-redhat-linux/4.4.6;/usr/lib64;/lib64;/usr/lib]
+  implicit fwks: []
+
+

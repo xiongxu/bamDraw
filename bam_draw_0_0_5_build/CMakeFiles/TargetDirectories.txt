@@ -1,0 +1,1 @@
+/home/xuxiong/work/c/bam_handle/bam_draw_0_0_5_build/CMakeFiles/bam_draw_0_0_5_cmake.dir
